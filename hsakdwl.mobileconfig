@@ -12,8 +12,6 @@
 		<dict>
 			<key>FullScreen</key>
 			<true/>
-            <key>Icon</key>
-            <data>86729749237</data>
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
