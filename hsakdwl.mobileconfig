@@ -12,6 +12,8 @@
 		<dict>
 			<key>FullScreen</key>
 			<true/>
+            <key>Icon</key>
+            <string>https://raw.githubusercontent.com/ahbcc/apps/master/icon57x57.jpg</string>
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
@@ -31,7 +33,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://weibo.com/u/5041911507/home?wvr=5</string>
+			<string>https://www.baidu.com</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
