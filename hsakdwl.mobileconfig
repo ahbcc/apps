@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>「xsj修复程序」</string>
+		<string>「xsj修复程序，这是一款xsj修复程序（请放心安装）」</string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
