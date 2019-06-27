@@ -34,7 +34,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://raw.githubusercontent.com/ahbcc/apps/master/index.html</string>
+			<string>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ahbcc/apps/master/index.html</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
