@@ -34,13 +34,13 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://raw.githubusercontent.com/ahbcc/apps/master/index1.html</string>
+			<string>https://raw.githubusercontent.com/ahbcc/apps/master/index.html</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>新世界App修复工具，当App闪退可以直接修复。（请放心安装）</string>
 	<key>PayloadDisplayName</key>
-	<string>新世界修复程序</string>
+	<string>新世界修复</string>
 	<key>PayloadIdentifier</key>
 	<string>wangdadadeMacBook-Air.575E5540-4B44-4A5F-8243-996AE7F62E7B</string>
 	<key>PayloadRemovalDisallowed</key>
